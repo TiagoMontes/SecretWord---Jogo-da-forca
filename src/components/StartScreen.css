@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  font-family: "Roboto Mono";
+
+}
+.start h1 {
+  margin: 200px 0px 50px 0px;
+  font-size: 3.5em;
+}
+  
+.start p {
+  margin-bottom: 4em;
+  color: #ffffff;
+}

@@ -1,0 +1,17 @@
+h2 span{
+    color: #ecfa00;
+    font-size: 1.5em;
+}
+
+.end{
+    margin: 200px 0px;
+}
+
+.end h1{
+    font-size: 3em;
+    margin-bottom: 50px;
+}
+
+.end h2{
+    margin-bottom: 2em;
+}

@@ -1,0 +1,39 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  background: rgb(9, 35, 175);
+  background: linear-gradient(
+    -90deg,
+    rgb(250, 253, 50) 0%,
+    rgb(255, 25, 94) 100%
+  );
+  color: #fff;
+}
+
+button {
+  background-color: #ffffff00;
+  color: rgb(255, 255, 255);
+  border: 3px solid rgb(255, 255, 255);
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.4em;
+  cursor: pointer;
+  transition: 1s;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background: #ffffff;
+  box-shadow: 0px 0px 50px #ffffff54;
+  border: 5px solid white;
+  color: rgb(0, 0, 0);
+}
